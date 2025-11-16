@@ -1,0 +1,1 @@
+I created a directory structure (project and logs) and files using mkdir and touch. I learned to move files using mv and wildcards (*.log), and practiced access control: I used chmod to set files to "read-only" mode and others to be "executable" only for the user. Finally, I deleted files with rm.
